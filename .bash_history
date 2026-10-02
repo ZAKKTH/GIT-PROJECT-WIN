@@ -1,0 +1,2 @@
+ls
+setx HOME "C:"

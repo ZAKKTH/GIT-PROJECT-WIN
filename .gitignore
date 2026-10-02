@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Neovim
+.lazy/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# pacman database
+/var/lib/pacman/local/
+/var/lib/pacman/sync/
+
+# pacman cache
+/var/cache/pacman/pkg/
+
+# logs
+/var/log/
+
+# temporary files
+/tmp/
+/var/tmp/
+
+# user-specific / generated files
+/home/*/.cache/
+# MSYS2 package sources
+/usr/src/
+# MSYS2 package source repositories
+/usr/src/MINGW-packages/
+/usr/src/MSYS2-packages/
